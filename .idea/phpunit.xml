@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/product-discount-calculator/tests/Unit" />
+        <option value="$PROJECT_DIR$/product-discount-calculator/tests/Feature" />
+        <option value="$PROJECT_DIR$/blog-app/tests/Unit" />
+        <option value="$PROJECT_DIR$/blog-app/tests/Feature" />
+        <option value="$PROJECT_DIR$/email-validation/tests/Unit" />
+        <option value="$PROJECT_DIR$/email-validation/tests/Feature" />
+        <option value="$PROJECT_DIR$/laravel-auth-session/tests/Unit" />
+        <option value="$PROJECT_DIR$/laravel-auth-session/tests/Feature" />
+        <option value="$PROJECT_DIR$/customer-manager/tests/Unit" />
+        <option value="$PROJECT_DIR$/customer-manager/tests/Feature" />
+        <option value="$PROJECT_DIR$/route-demo/tests/Unit" />
+        <option value="$PROJECT_DIR$/route-demo/tests/Feature" />
+        <option value="$PROJECT_DIR$/laravel-cart/tests/Unit" />
+        <option value="$PROJECT_DIR$/laravel-cart/tests/Feature" />
+        <option value="$PROJECT_DIR$/calculator/tests/Unit" />
+        <option value="$PROJECT_DIR$/calculator/tests/Feature" />
+        <option value="$PROJECT_DIR$/greeting/tests/Unit" />
+        <option value="$PROJECT_DIR$/greeting/tests/Feature" />
+        <option value="$PROJECT_DIR$/timezone/tests/Unit" />
+        <option value="$PROJECT_DIR$/timezone/tests/Feature" />
+        <option value="$PROJECT_DIR$/TudienAnh-Viet/tests/Unit" />
+        <option value="$PROJECT_DIR$/TudienAnh-Viet/tests/Feature" />
+        <option value="$PROJECT_DIR$/user-search/tests/Unit" />
+        <option value="$PROJECT_DIR$/user-search/tests/Feature" />
+        <option value="$PROJECT_DIR$/validation-register/tests/Unit" />
+        <option value="$PROJECT_DIR$/validation-register/tests/Feature" />
+      </list>
+    </option>
+  </component>
+</project>

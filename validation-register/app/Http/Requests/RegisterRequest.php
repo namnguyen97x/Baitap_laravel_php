@@ -31,4 +31,20 @@ class RegisterRequest extends FormRequest
             'password' => 'required|min:6|max:32|confirmed',
         ];
     }
+    public function messages()
+{
+    return [
+        'full-name.required' => 'Full name không được để trống',
+        'email.required' => 'Email không được để trống',
+        'email.email' => 'Email không đúng định dạng',
+        'phone.required' => 'Số điện thoại không được để trống',
+        'phone.digits' => 'Số điện thoại có 10 số',
+        'job.required' => 'Job không được để trống',
+        'password.required' => 'Mật khẩu không được để trống',
+        'password.min' => 'Mật khẩu phải có ít nhất 6 ký tự',
+        'password.max' => 'Mật khẩu phải có tối đa 32 ký tự',
+        'password.confirmed' => 'Mật khẩu xác nhận không khớp',
+    ];
+}
+
 }
